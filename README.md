@@ -1,6 +1,11 @@
-### Hi there 👋
+### Hallo zusammen 👋
 
-README.md
+- ich bin angehende Front End Web Entwicklerin 🤩
+- freue mich auf zukünftige Projekte 😃
+- bin gerne draussen und in der Welt unterwegs 🌴
+- lerne gerne neue Menschen kennen
+
+
 <!--
 **elkegrau-cbe/elkegrau-cbe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
