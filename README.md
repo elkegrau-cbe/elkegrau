@@ -1,6 +1,6 @@
 ### Hallo zusammen 👋
 
-- ich bin angehende Front End Web Entwicklerin 🤩
+- ich bin Front End Web Entwicklerin 🤩
 - freue mich auf zukünftige Projekte 💪
 - bin gerne in der Welt unterwegs 🌴
 - lerne gerne neue Menschen kennen 😃
